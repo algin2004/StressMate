@@ -19,7 +19,12 @@ It uses **machine learning (Logistic Regression)** trained on a stress dataset t
 - Interactive chatbot UI powered by **Streamlit**  
 
 ---
+## Live Demo
 
+You can try the chatbot live here:  
+[Open StressMate Chatbot](https://stressmate-hwxrf3mckssmvxpuwba68u.streamlit.app/)
+
+---
 ## 📂 Project Structure
 StressMate/
 │
