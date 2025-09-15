@@ -74,7 +74,7 @@ Target variable:
 
 -Track stress trends over time
 
--Integrate relaxation tips & resources
+
 ---
 ## Author
 
