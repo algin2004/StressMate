@@ -26,19 +26,19 @@ You can try the chatbot live here:
 
 ---
 ## 📂 Project Structure
-StressMate/
--├── data/
--│ └── StressLevelDataset.csv 
--│
--├── models/
--│ └── stress_model.pkl 
--│
--├── app/
--│ └── stressmate_chatbot.py 
--│
--├── train_stressmate.py 
--├── requirements.txt
--├── README.md 
+**StressMate/
+**├── data/
+**│ └── StressLevelDataset.csv 
+**│
+**├── models/
+**│ └── stress_model.pkl 
+**│
+**├── app/
+**│ └── stressmate_chatbot.py 
+**│
+**├── train_stressmate.py 
+**├── requirements.txt
+**├── README.md 
 
 ---
 🌍 Deployment
